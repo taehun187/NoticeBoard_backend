@@ -22,3 +22,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# 스프링 설정 파일
+application.yml
+application.properties
+
+# JWT 키 파일
+jwt-secret-key.txt
